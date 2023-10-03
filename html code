@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Your Landing Page</title>
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="services.html">Services</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section class="hero" >
+        <h1 style="color: white;">Welcome to Our AI based OS</h1>
+        <p>🚀 Welcome to the Future of Computing: AI-Based Operating Systems 🤖</p>
+        <a href="https://www.tutorialandexample.com/operating-system-based-on-artificial-intelligence" class="btn">Learn More</a>
+    </section>
+
+    <section class="features">
+        <div class="feature">
+            <h2>Personalization and Adaptation:</h2>
+            <img src="https://cdn.elearningindustry.com/wp-content/uploads/2021/11/shutterstock_1494218468.jpg" height="56" alt="image">
+            <p>AI-based operating systems excel at personalizing the user experience. They continuously learn from your behavior, preferences, and usage patterns to tailor the device's interface, settings, and recommendations to suit you best. Whether it's organizing your applications, suggesting content, or adjusting screen brightness based on your environment, AI ensures that your device adapts to your needs and habits seamlessly.</p>
+        </div>
+        <div class="feature">
+            <h2>Intelligent Assistance:</h2>
+            <img src="https://www.iteratorshq.com/wp-content/uploads/2020/11/ai_personal_assistant_software.jpg" height="56" alt="image">
+            <p>AI-based OSs offer intelligent virtual assistants that go beyond traditional voice recognition. These assistants leverage natural language processing and machine learning to understand context, enabling them to perform tasks and provide information with higher accuracy. They can schedule meetings, set reminders, answer questions, control smart home devices, and even anticipate your needs, making your interactions with your device more efficient and user-friendly..</p>
+        </div>
+        <div class="feature">
+            <h2>Security and Privacy:</h2>
+            <img src="https://assets-global.website-files.com/5e42772e6a8cfd42a9715206/641996cfedbe5b668d588f05_Feature_Preserve-Privacy-in-AI%20(2).jpg" height="56" alt="image">
+            <p>AI-based operating systems enhance security and privacy by actively monitoring and identifying potential threats. They use advanced algorithms to detect unusual behavior patterns, unauthorized access attempts, and malware in real-time. AI can also encrypt data, secure biometric authentication, and provide personalized security recommendations, ensuring that your digital life remains safe and protected.</p>
+        </div>
+    </section>
+
+  
+
+    <footer>
+        <p>&copy; 2023 AI based O S </p>
+    </footer>
+</body>
+</html>
